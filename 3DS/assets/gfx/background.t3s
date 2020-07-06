@@ -1,0 +1,4 @@
+--atlas -f rgba -z auto
+
+background/normal.png
+background/opening.png

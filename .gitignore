@@ -1,0 +1,11 @@
+paddlepuffle3ds.3dsx
+paddlepuffle3ds.elf
+paddlepuffle3ds.smdh
+
+build
+*.exe
+*.3dsx
+*.cia
+*.elf
+*.smdh
+*.t3x

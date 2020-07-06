@@ -1,0 +1,5 @@
+--atlas -f rgba -z auto
+
+sprites/button.png
+sprites/logo.png
+sprites/paddle.png
